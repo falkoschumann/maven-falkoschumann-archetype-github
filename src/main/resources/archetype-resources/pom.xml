@@ -15,7 +15,7 @@
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
         tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
     </description>
-    <url>https://github.com/falkoschumann/java-events</url>
+    <url>https://github.com/falkoschumann/${project.artifactId}</url>
 
     <licenses>
         <license>
