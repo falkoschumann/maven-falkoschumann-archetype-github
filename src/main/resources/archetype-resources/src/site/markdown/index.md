@@ -1,4 +1,7 @@
-example
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+${artifactId}
 -------
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -11,14 +14,14 @@ et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
 sanctus est Lorem ipsum dolor sit amet.
 
 
-### Usage
+${symbol_pound}${symbol_pound}${symbol_pound} Usage
 
 General instructions on how to use the project can be found on the
 [usage page](usage.html). Some more specific use cases are described in the
 examples given below.
 
 
-### Examples
+${symbol_pound}${symbol_pound}${symbol_pound} Examples
 
 The following examples show how to use the project in more advanced usecases:
 

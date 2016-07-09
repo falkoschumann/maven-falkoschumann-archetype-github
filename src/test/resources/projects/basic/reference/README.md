@@ -2,7 +2,7 @@
 [![Download](https://api.bintray.com/packages/falkoschumann/maven/example/images/download.svg)](https://bintray.com/falkoschumann/maven/example)
 
 
-Example
+example
 =======
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod

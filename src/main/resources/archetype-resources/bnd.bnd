@@ -1,0 +1,4 @@
+-exportcontents: ${package}.*
+-sources: true
+
+Bundle-Name: ${artifactId}
