@@ -1,0 +1,4 @@
+-exportcontents: de.muspellheim.example.*
+-sources: true
+
+Bundle-Name: example

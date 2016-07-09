@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://maven.apache.org/changes/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 http://maven.apache.org/xsd/changes-1.0.0.xsd">
+
+    <properties>
+        <title>Example</title>
+        <author email="falko.schumann@muspellheim.de">Falko Schumann</author>
+    </properties>
+
+    <!-- action types: add, fix, update, remove -->
+    <body>
+        <release version="0.1.0" date="2016-07-09" description="First Release">
+            <action dev="falkoschumann" type="add">
+                Lorem ipsum dolor sit amet.
+            </action>
+        </release>
+    </body>
+
+</document>
