@@ -69,7 +69,6 @@
         <module name="UnusedImports"/>
 
         <!-- Javadoc Comments -->
-        <module name="AtclauseOrder"/>
         <module name="JavadocParagraph"/>
         <module name="JavadocStyle"/>
         <module name="JavadocType"/>
