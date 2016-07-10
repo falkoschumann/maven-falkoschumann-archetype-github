@@ -2,3 +2,4 @@
 -sources: true
 
 Bundle-Name: example
+Bundle-SymbolicName: de.muspellheim.example

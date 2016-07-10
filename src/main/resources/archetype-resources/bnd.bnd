@@ -2,3 +2,4 @@
 -sources: true
 
 Bundle-Name: ${artifactId}
+Bundle-SymbolicName: ${package}
